@@ -1,1 +1,1 @@
-This is a repositry for daily challenges solved in python
+This is a repositry for daily challenges solved in python# freeCodeCampDailyChallenges
