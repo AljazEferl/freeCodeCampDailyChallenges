@@ -1,4 +1,4 @@
 ## freeCodeCampDailyChallenges
 
-This is a repositry for daily challenges solved in python
+This is a repository for daily challenges solved in python
 
